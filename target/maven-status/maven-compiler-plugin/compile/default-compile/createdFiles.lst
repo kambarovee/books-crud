@@ -1,0 +1,10 @@
+com\example\books\document\Books.class
+com\example\books\BooksApplication.class
+com\example\books\dto\BooksDTO.class
+com\example\books\repository\BooksRepository.class
+com\example\books\dto\BooksSearchDTO.class
+com\example\books\resource\implementation\BooksResourceImplementation.class
+com\example\books\mapper\BooksMapper.class
+com\example\books\resource\BooksResource.class
+com\example\books\service\BooksService.class
+com\example\books\service\implementation\BooksServiceImplementation.class
